@@ -1,1 +1,1 @@
-# ebay-scraper
+# Scraping from eBay
