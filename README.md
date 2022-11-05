@@ -12,7 +12,6 @@ In order to run the file, you should enter your search term into the command lin
 ```
 $ python3 ebay-dl.py ipad
 ```
-<br/>
 
 If your search term contains a space, you must put quotation marks around it. For example, the following command lines were used to generate the `playstation 5.json` file:
 ```
